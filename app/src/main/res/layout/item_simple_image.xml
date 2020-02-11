@@ -1,0 +1,6 @@
+<ImageView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/SimpleContent.SimpleImage"
+    android:id="@+id/simple_image"
+    tools:src="@drawable/img_00"/>
